@@ -1,1 +1,1 @@
-# google_sign_in
+# Sign in with Google PHP API
